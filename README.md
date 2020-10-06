@@ -1,1 +1,1 @@
-# CPP-code-for-beginners
+# A bunch of C++ programs for beginners
